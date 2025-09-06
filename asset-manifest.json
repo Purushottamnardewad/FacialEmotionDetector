@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FacialEmotionDetector/static/css/main.64a9edb7.css",
+    "main.js": "/FacialEmotionDetector/static/js/main.bdcf6fa5.js",
+    "static/media/hero-bg.png": "/FacialEmotionDetector/static/media/hero-bg.4de290bee726449be174.png",
+    "index.html": "/FacialEmotionDetector/index.html",
+    "main.64a9edb7.css.map": "/FacialEmotionDetector/static/css/main.64a9edb7.css.map",
+    "main.bdcf6fa5.js.map": "/FacialEmotionDetector/static/js/main.bdcf6fa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a9edb7.css",
+    "static/js/main.bdcf6fa5.js"
+  ]
+}
