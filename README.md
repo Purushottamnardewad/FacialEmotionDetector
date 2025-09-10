@@ -1,7 +1,7 @@
 # Facial Emotion Detector
-A real-time web application that detects facial emotions using AI and provides instant feedback through text labels.
-Built using ReactJS and face-api.js.
-face-api.js is a JavaScript API for face detection and facial expression recognition in the browser, implemented on top of the TensorFlow.js core API.
+* A real-time web application that detects facial emotions using AI and provides instant feedback through text labels.
+* Built using ReactJS and face-api.js.
+* face-api.js is a JavaScript API for face detection and facial expression recognition in the browser, implemented on top of the TensorFlow.js core API.
 	
 
 ## URL / Live Demo
