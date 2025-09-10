@@ -4,10 +4,10 @@
 	•	face-api.js is a JavaScript API for face detection and facial expression recognition in the browser, implemented on top of the TensorFlow.js core API.
 	
 
-# URL / Live Demo
+## URL / Live Demo
 https://purushottamnardewad.github.io/FacialEmotionDetector
 
-# About This Project
+## About This Project
 The objective of this project is to demonstrate real-time emotion recognition directly in the browser using your webcam.
 
 Once the app detects your face, it will:
@@ -19,9 +19,9 @@ Once the app detects your face, it will:
 All detection and processing are powered by face-api.js, which runs locally in your browser without sending any data to a server.
 You can read more about face-api.js here.
 
-# Note: You are not being recorded at any point. All computations happen inside your browser.
+## Note: You are not being recorded at any point. All computations happen inside your browser.
 
-# Features
+## Features
 	•	Real-time facial emotion detection
 	•	Seven emotion classifications
 	•	Text-based feedback
@@ -29,38 +29,38 @@ You can read more about face-api.js here.
 	•	Responsive design with a modern UI
 	•	No storage or recording of data
 
-# Tech Stack
+## Tech Stack
 	•	React.js – frontend framework
 	•	face-api.js – emotion recognition (TensorFlow.js-based)
 	•	HTML5 WebRTC API – webcam access
 	•	CSS3 – styling
 
-# Installation
-# 1. Clone the repository:
+## Installation
+## 1. Clone the repository:
 git clone https://github.com/Purushottamnardewad/FacialEmotionDetector.git
 cd FacialEmotionDetector
 
-# 2. Install dependencies:
+## 2. Install dependencies:
 npm install
 
-# 3. Start the development server:
+## 3. Start the development server:
 npm start
 
-# 4. Open in browser: 
+## 4. Open in browser: 
 http://localhost:3000
 
-# Requirements
+## Requirements
 	•	Modern web browser (Chrome, Firefox, Safari, Edge)
 	•	Webcam access enabled
 	•	JavaScript enabled
 	•	Internet connection (only for initial model loading)
 
-# Future Enhancements
+## Future Enhancements
 	•	Support for multiple face detection
 	•	Emotion tracking over time
 	•	Customizable UI themes
 	•	Accessibility improvements
 	•	Mobile optimization
 
-# Contributing
+## Contributing
 Contributions are welcome. Please fork this repository, make your changes, and submit a pull request.
